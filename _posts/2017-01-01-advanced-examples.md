@@ -25,9 +25,10 @@ In this project, I simulated the movement of pieces through a monopoly game usin
 
 ## Monte Carlo Study and Simulation of the game Chutes and Ladders
 
+[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%207.04.42%20PM.png?raw=true)]
 ![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.20.57%20PM.png?raw=true)
 ![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.21.05%20PM.png?raw=true)
-![Image}(https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.21.18%20PM.png?raw=true)
+![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.21.18%20PM.png?raw=true)
 
 Link to Results: https://drive.google.com/file/d/1BqdCylwaM3AL3brazOsTBnjwXM4ZeEL8/view
 
