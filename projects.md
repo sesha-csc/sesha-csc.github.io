@@ -1,7 +1,7 @@
 ---
 title:  "Hello, here is a collection of my projects over the years. Please click on the link to see the full project!"
 mathjax: true
-layout: post
+layout: page
 ---
 ## Optimization Algorithms and Root-Finding Methods 
 [![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%208.20.34%20PM.png?raw=true)](https://drive.google.com/file/d/1qMER7HqZ6ZvFlLa_Sss9KViTtBI51Ygg/view)
