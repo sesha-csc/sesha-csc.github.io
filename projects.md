@@ -20,13 +20,6 @@ Skills: Regex, Webscraping, Dplyr
 
 For a class project, I used packages rvest and polite, I used webscraping methods to scrape content from the website: https://www.baseball-reference.com/. Specifically, I looked at Franchise History of the teams in the MLB and analyzed data across 22 seasons. I produced summary statistics using dplyr. Furthermore, I used regular expressions in order to pull data about team managers and extract the wins and losses data. 
 
-## Bootstrapping and Randomization Trials
-[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%209.43.35%20PM.png?raw=true)](https://drive.google.com/file/d/1Wd_MX7Pivouo9NDGah7sgHvAlWH4DM1z/view)
-
-Skills: Statistical Methods of Bootstrapping using Likelihood functions
-
-Using bootstrapping, I had to create 95% confidence interval of the probability parameter in a function that followed a geometric distribution. 
-
 ## Monte Carlo Study and Simulation of the game Monopoly
 
 [![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.20.24%20PM.png?raw=true)](https://drive.google.com/file/d/1XUkdepCPXkrUk4scbgHgcJQOZtSsAmd0/view)
@@ -66,6 +59,13 @@ In this program, I used created a Complex Vector class in C++ and used operator 
 Skills: C++, Parsing input data from files, Polymorphism, Object Oriented Programming 
 
 In this program, I was given a file of data containing information about UCLA and USC students. I used string streams in C++ to parse the file and extract the relevant pieces of information. Using object oriented programming, I created classes for both UCLA and USC students to create student objects and store information about these students accordingly. 
+
+## Bootstrapping and Randomization Trials
+[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%209.43.35%20PM.png?raw=true)](https://drive.google.com/file/d/1Wd_MX7Pivouo9NDGah7sgHvAlWH4DM1z/view)
+
+Skills: Statistical Methods of Bootstrapping using Likelihood functions
+
+Using bootstrapping, I had to create 95% confidence interval of the probability parameter in a function that followed a geometric distribution. 
 
 ## Monte Carlo Study and Simulation of the game Chutes and Ladders
 
