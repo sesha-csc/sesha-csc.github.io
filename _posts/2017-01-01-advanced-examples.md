@@ -6,7 +6,7 @@ categories: media
 ---
 
 ## Optimization Algorithms and Root-Finding Methods 
-[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%207.26.51%20PM.png?raw=true)](https://drive.google.com/file/d/1ibUuSGAcfhTeRsVhMk2eaKtkEEuMv9Pb/view)
+[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%208.20.34%20PM.png?raw=true)](https://drive.google.com/file/d/1qMER7HqZ6ZvFlLa_Sss9KViTtBI51Ygg/view)
 
 Skills: Mathematical Optimization, Root-finding Methods 
 
