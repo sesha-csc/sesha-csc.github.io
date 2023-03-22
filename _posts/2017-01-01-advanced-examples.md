@@ -5,9 +5,15 @@ layout: post
 categories: media
 ---
 
+## Optimization Algorithms and Root-Finding Methods 
+
+
 ## Multivariate Linear Regression Analysis of WHO Data to build a predictive model of Life Expectancy
 [![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%207.04.42%20PM.png?raw=true)](https://drive.google.com/file/d/1ibUuSGAcfhTeRsVhMk2eaKtkEEuMv9Pb/view)
 
+Skills: R, Data Visualization, regression algorithms, multivariate regresssion analysis
+
+In this joint project, my partner and I conducted a multivariate regression analysis on life expectancy data from the World Health Organization in order to provide reccomendations for the WHO, United Nations, and governments of developing countries on which factors of public health are most relevant and important to produce lasting changes in life expectancy. We conducted a thorough regression analysis in R in order to produce a final predictive model of life expectancy that had up to 80% accuracy on our training dataset. 
 
 ## Analysis of Major League Baseball Data to build a predictive model for salary based on a number of player metrics
 
@@ -22,8 +28,6 @@ Skills: R, Object Oriented Programming, R6 Class
 In this project, I simulated the movement of pieces through a monopoly game using a random dice roll. I coded the entire Monoply Board as well as the Chance and Community Decks. In addition, I included the rules for moving through jail, being sent to jail, and leaving jail. It was especially challenging to conisder edge cases. Through running nearly 10,000 simulations of the game, I conducted a Monte Carlo Study to understand which positions get landed on the most in the Game of Monopoly. The entire project was built under the R6 Class system and entailed object oriented programinng to store and update important features of the players throughout the game. From the simulation study, I was able to provide a strategy as to which Monopoly properties are best suited to give you a high return on investment from rent collection. 
 
 ## Monte Carlo Study and Simulation of the game Chutes and Ladders
-
-[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%207.04.42%20PM.png?raw=true)]
 ![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.20.57%20PM.png?raw=true)
 ![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.21.05%20PM.png?raw=true)
 ![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.21.18%20PM.png?raw=true)
