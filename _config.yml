@@ -15,7 +15,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Resume", url: "https://drive.google.com/file/d/1ZhDoZjDQvbl8ZlQVVgmZO02IgYWL8lCq/view?usp=share_link"}
+  - {title: "Resume", url: "https://drive.google.com/file/d/1ZhDoZjDQvbl8ZlQVVgmZO02IgYWL8lCq/view"}
   - {file: "projects.pdf", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
