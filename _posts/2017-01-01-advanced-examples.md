@@ -13,9 +13,7 @@ categories: media
 
 ## Monte Carlo Study and Simulation of the game Monopoly
 
-![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.20.24%20PM.png?raw=true)
-
-Link to Results: https://drive.google.com/file/d/1XUkdepCPXkrUk4scbgHgcJQOZtSsAmd0/view
+[![Image](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%206.20.24%20PM.png?raw=true)](https://drive.google.com/file/d/1XUkdepCPXkrUk4scbgHgcJQOZtSsAmd0/view)
 
 Link to Full Project Repository: https://gitfront.io/r/user-7760407/zC7G8eLFQn87/Monopoly/
 
