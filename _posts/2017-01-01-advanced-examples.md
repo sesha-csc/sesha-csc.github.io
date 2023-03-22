@@ -9,7 +9,7 @@ categories: media
 
 
 ## Multivariate Linear Regression Analysis of WHO Data to build a predictive model of Life Expectancy
-[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%207.04.42%20PM.png?raw=true)](https://drive.google.com/file/d/1ibUuSGAcfhTeRsVhMk2eaKtkEEuMv9Pb/view)
+[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%207.26.51%20PM.png?raw=true)](https://drive.google.com/file/d/1ibUuSGAcfhTeRsVhMk2eaKtkEEuMv9Pb/view)
 
 Skills: R, Data Visualization, regression algorithms, multivariate regresssion analysis
 
