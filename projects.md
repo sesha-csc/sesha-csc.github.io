@@ -35,7 +35,7 @@ In this project, I simulated the movement of pieces through a monopoly game usin
 
 Skills: R, Data Visualization, Regression Algorithms, Multivariate Regresssion Analysis
 
-In this project, I conducted a multivariate regression analysis on life expectancy data from the World Health Organization in order to provide reccomendations for the WHO, United Nations, and governments of developing countries on which factors of public health are most relevant and important to produce lasting changes in life expectancy. We conducted a thorough regression analysis in R in order to produce a final predictive model of life expectancy that had up to 80% accuracy on our training dataset. 
+In this project, I conducted a multivariate regression analysis on life expectancy data from the World Health Organization in order to provide reccomendations for the WHO, United Nations, and governments of developing countries on which factors of public health are most relevant and important to produce lasting changes in life expectancy. We conducted a thorough regression analysis in R in order to produce a final predictive model of life expectancy that had up to 80% accuracy on our training dataset. The link above will take you to my final presentation of my findings. 
 
 ## Analysis of Major League Baseball Data to build a predictive model for salary based on a number of player metrics
 [![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%208.11.18%20PM.png?raw=true)](https://drive.google.com/file/d/1gKu32uVhjyvuB9R3OL7kA2wefLnj0aJN/view?usp=share_link)
