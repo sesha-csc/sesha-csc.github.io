@@ -1,9 +1,21 @@
 ---
-title:  "Please click on the picture to see the full project!"
+title:  "A collection of some of my past projects"
 mathjax: true
 layout: post
 ---
+## H3 Clustering Algorithm 
+[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%208.20.34%20PM.png?raw=true)]
 
+Skills: Weighted K-means clustering machine learning algorithm, Python (numpy, pandas, matplotlib), H3, KeplerGL, DBSCAN algorithm, unsupervised learning, SQL 
+
+During my internship with Coco Robot Delivery, I found that Coco relied on field operators to maintain robots, and currently, the operating zones were manually created using the unique domain expertise. I wanted to find a way to automate this process and aid the creation of operating zones using certain constraints such as end-to-end travel time zones. 
+
+1) Consideration of Constraints: Municipal boundaries, end-to-end travel time, historical failure rate
+2) Using SQL to query geographical failure data as well as coordinates of all merchants in the areas
+3) Using the H3 grid system to assign coordinates to hexagonal areas - to allow for analysis on the categorical level
+4) Using Python and Google Maps API to build a custom clustering algorithm that included randomness and a scoring system to determine which runs of the algorithm produced clusters of greater quality
+5) Used weighted k-means to incorporate form zones centered around hexagons with historically high failure rates in order to optimize current operating zones (Implemented DBSCAN as well to compare results and found that weighted k-means generated higher quality clusters according to a unique scoring metric)
+6) Presented findings as a part of a final presentation  
 
 ## Optimization Algorithms and Root-Finding Methods 
 [![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%208.20.34%20PM.png?raw=true)](https://drive.google.com/file/d/1qMER7HqZ6ZvFlLa_Sss9KViTtBI51Ygg/view)
@@ -15,9 +27,9 @@ My analysis and replication of the Coordinate Descent Optimization Algorithm and
 ## Webscraping 
 [![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%209.36.08%20PM.png?raw=true)](https://drive.google.com/file/d/1XTXmYiJsU2RVyqQCclUxBKs6H15tDm5E/view)
 
-Skills: Regex, Webscraping, Dplyr
+Skills: Regex, Webscraping, tidyverse, Selenium webdriver
 
-For a class project, I used packages rvest and polite, I used webscraping methods to scrape content from the website: https://www.baseball-reference.com/. Specifically, I looked at Franchise History of the teams in the MLB and analyzed data across 22 seasons. I produced summary statistics using dplyr. Furthermore, I used regular expressions in order to pull data about team managers and extract the wins and losses data. 
+For a class project, I used packages rvest and polite as well as Selenium webdriver, I used webscraping methods to scrape content from the website: https://www.baseball-reference.com/. Specifically, I looked at Franchise History of the teams in the MLB and analyzed data across 22 seasons. I produced summary statistics using dplyr. Furthermore, I used regular expressions in order to pull data about team managers and extract the wins and losses data. 
 
 ## Monte Carlo Study and Simulation of the game Monopoly
 
@@ -41,7 +53,7 @@ In this project, I conducted a multivariate regression analysis on life expectan
 
 Skills: R, Data Visualization, Multivariate Regression Analysis
 
-In this project, I conduced a regression analysis on salary data of MLB players using a number of predictive metrics including but not limited to, number of hits, runs batted during career, and the league that the player was in. 
+In this project, I conducted a regression analysis on salary data of MLB players using a number of predictive metrics including but not limited to, number of hits, runs batted during career, and the league that the player was in. 
 
 ## Complex Vector Class in C++
 
