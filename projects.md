@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 ---
 ## H3 Clustering Algorithm 
-[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-03-21%20at%208.20.34%20PM.png?raw=true)]
+[![Example image preview](https://github.com/sesha-csc/sesha-csc.github.io/blob/master/Screen%20Shot%202023-10-07%20at%208.13.09%20PM.png?raw=true)]
 
 Skills: Weighted K-means clustering machine learning algorithm, Python (numpy, pandas, matplotlib), H3, KeplerGL, DBSCAN algorithm, unsupervised learning, SQL 
 
